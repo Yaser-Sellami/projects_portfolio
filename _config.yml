@@ -1,7 +1,6 @@
 title: "Yaser Sellami's Portfolio"
 description: "Machine Learning projects"
 theme: jekyll-theme-minimal
-show_downloads: false
 
 sass:
   style: compressed
@@ -13,4 +12,5 @@ navigation:
     url: /projects
   - title: "Contacts"
     url: /contact
+
 
