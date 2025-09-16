@@ -1,3 +1,16 @@
-theme: minima
-title: Projects portfolio in Phyton
-author: Yaser Sellami
+title: "Yaser Sellami's Portfolio"
+description: "Machine Learning projects"
+theme: jekyll-theme-minimal
+show_downloads: false
+
+sass:
+  style: compressed
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects
+  - title: "Contacts"
+    url: /contact
+
